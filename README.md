@@ -2,6 +2,12 @@
 
 This project is a basic counter created with React and using Redux for state management.
 
+## Install Dependencies
+
+```
+npm install
+```
+
 ## Run the App
 
 To run the app in development mode, in the project directory run:
